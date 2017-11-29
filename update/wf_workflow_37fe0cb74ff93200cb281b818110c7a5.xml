@@ -15,7 +15,7 @@
         <expected_sequences>53f2384c0f0232000d030dbce1050eaa,dff2384c0f0232000d030dbce1050eab,abf23c8c0f0232000d030dbce1050e2f,38337c8c0f0232000d030dbce1050ebe,53f2384c0f0232000d030dbce1050eab</expected_sequences>
         <expected_time>1970-01-01 14:00:00</expected_time>
         <expected_time_type/>
-        <full_sequences>53f2384c0f0232000d030dbce1050eaa,dff2384c0f0232000d030dbce1050eab,abf23c8c0f0232000d030dbce1050e2f,38337c8c0f0232000d030dbce1050ebe,53f2384c0f0232000d030dbce1050eab|53f2384c0f0232000d030dbce1050eaa,dff2384c0f0232000d030dbce1050eab,5ff2384c0f0232000d030dbce1050ea7,53f2384c0f0232000d030dbce1050eab</full_sequences>
+        <full_sequences>53f2384c0f0232000d030dbce1050eaa,dff2384c0f0232000d030dbce1050eab,abf23c8c0f0232000d030dbce1050e2f,5ff2384c0f0232000d030dbce1050ea7,38337c8c0f0232000d030dbce1050ebe,53f2384c0f0232000d030dbce1050eab</full_sequences>
         <journal/>
         <max_activity_count>100</max_activity_count>
         <name>NeedIt Approval</name>
@@ -34,9 +34,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-04-05 19:51:03</sys_created_on>
         <sys_id>5ff2384c0f0232000d030dbce1050ea5</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-04-05 19:58:46</sys_updated_on>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-11-25 19:19:02</sys_updated_on>
         <table>x_58872_needit_needit</table>
         <timezone/>
         <validated>false</validated>
