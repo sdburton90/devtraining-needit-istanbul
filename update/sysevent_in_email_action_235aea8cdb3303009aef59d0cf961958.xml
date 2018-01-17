@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sysevent_in_email_action">
+    <sysevent_in_email_action action="INSERT_OR_UPDATE">
+        <action>record_action</action>
+        <active>true</active>
+        <assignment_operator/>
+        <condition_script/>
+        <description>Creates a task entry from an email.</description>
+        <event_name>email.read</event_name>
+        <filter_condition/>
+        <from display_value="Sammy Shotbean">56d16a88db3303009aef59d0cf961959</from>
+        <name>Create Needit Task</name>
+        <order>10</order>
+        <reply_email/>
+        <required_roles>x_58872_needit.needit_user</required_roles>
+        <script><![CDATA[(function runAction(/*GlideRecord*/ current, /*GlideRecord*/ event, /*EmailWrapper*/ email, /*ScopedEmailLogger*/ logger, /*EmailClassifier*/ classifier) {
+
+	// Implement email action here
+//	var NewEmailNeeditTask = new GlideRecord('x_58872_needit_needit_task');
+//		NewEmailNeeditTask.work_notes = "Record created from email.";
+//		NewEmailNeeditTask.state = 1;
+//	    NewEmailNeeditTask.due_date = gs.hoursAgo(-96);
+//		NewEmailNeeditTask.description=email.subject;
+//		NewEmailNeeditTask.update();
+	current.work_notes = "Record created from email.";
+	current.state = 1;
+	current.due_date = gs.hoursAgo(-96);
+//	current.short_description=email.subject.
+	current.description=email.subject;
+	current.update();
+	
+})(current, event, email, logger, classifier);]]></script>
+        <stop_processing>true</stop_processing>
+        <sys_class_name>sysevent_in_email_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-01-17 01:21:12</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>235aea8cdb3303009aef59d0cf961958</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Create Needit Task</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sysevent_in_email_action_235aea8cdb3303009aef59d0cf961958</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-01-17 03:30:10</sys_updated_on>
+        <table>x_58872_needit_needit_task</table>
+        <template/>
+        <type>new</type>
+    </sysevent_in_email_action>
+</record_update>
