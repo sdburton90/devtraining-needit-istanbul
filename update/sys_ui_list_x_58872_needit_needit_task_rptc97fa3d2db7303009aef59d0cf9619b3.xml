@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_58872_needit_needit_task" version="2" view="RPTc97fa3d2db7303009aef59d0cf9619b3">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_58872_needit_needit_task" element="NULL" name="x_58872_needit_needit_task" parent="NULL" relationship="NULL" sys_domain="global" view="017f6716db7303009aef59d0cf96192d">897f6716db7303009aef59d0cf96194a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-24 05:21:50</sys_created_on>
+            <sys_id>c17f6716db7303009aef59d0cf96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-24 05:21:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="x_58872_needit_needit_task" element="NULL" name="x_58872_needit_needit_task" parent="NULL" relationship="NULL" sys_domain="global" view="017f6716db7303009aef59d0cf96192d">897f6716db7303009aef59d0cf96194a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-24 05:21:50</sys_created_on>
+            <sys_id>497f6716db7303009aef59d0cf96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-24 05:21:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_58872_needit_needit_task" element="NULL" name="x_58872_needit_needit_task" parent="NULL" relationship="NULL" sys_domain="global" view="017f6716db7303009aef59d0cf96192d">897f6716db7303009aef59d0cf96194a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-24 05:21:50</sys_created_on>
+            <sys_id>c97f6716db7303009aef59d0cf96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-24 05:21:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_58872_needit_needit_task" element="NULL" name="x_58872_needit_needit_task" parent="NULL" relationship="NULL" sys_domain="global" view="017f6716db7303009aef59d0cf96192d">897f6716db7303009aef59d0cf96194a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-24 05:21:50</sys_created_on>
+            <sys_id>4d7f6716db7303009aef59d0cf96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-24 05:21:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_58872_needit_needit_task" element="NULL" name="x_58872_needit_needit_task" parent="NULL" relationship="NULL" sys_domain="global" view="017f6716db7303009aef59d0cf96192d">897f6716db7303009aef59d0cf96194a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-24 05:21:50</sys_created_on>
+            <sys_id>cd7f6716db7303009aef59d0cf96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-24 05:21:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="x_58872_needit_needit_task" element="NULL" name="x_58872_needit_needit_task" parent="NULL" relationship="NULL" sys_domain="global" view="017f6716db7303009aef59d0cf96192d">897f6716db7303009aef59d0cf96194a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-24 05:21:50</sys_created_on>
+            <sys_id>417f6716db7303009aef59d0cf96194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-24 05:21:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>work_end</element>
+            <list_id display_value="x_58872_needit_needit_task" element="NULL" name="x_58872_needit_needit_task" parent="NULL" relationship="NULL" sys_domain="global" view="017f6716db7303009aef59d0cf96192d">897f6716db7303009aef59d0cf96194a</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-24 05:21:50</sys_created_on>
+            <sys_id>c17f6716db7303009aef59d0cf96194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-24 05:21:50</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_58872_needit_needit_task</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-24 05:21:50</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>897f6716db7303009aef59d0cf96194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_58872_needit_needit_task</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_list_x_58872_needit_needit_task_RPTc97fa3d2db7303009aef59d0cf9619b3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-24 05:21:50</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rptc97fa3d2db7303009aef59d0cf9619b3" name="RPTc97fa3d2db7303009aef59d0cf9619b3">017f6716db7303009aef59d0cf96192d</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
